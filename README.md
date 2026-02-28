@@ -1,0 +1,1 @@
+# CloudSync-Engine\n\n**CloudSync: Concurrent Object Storage Engine - Highly concurrent object storage ingestion pipeline using Python and Docker.**\n\n## Tech Stack\n- Python\n- AWS S3\n- Docker\n- REST APIs\n
