@@ -1,3 +1,4 @@
 - Commit 2 (FastAPI Endpoints): Build the API routes to accept file uploads. Implement basic synchronous S3 upload functionality to verify connectivity.
 - Commit 3 (Massive Concurrency): Refactor the upload logic using Python's asyncio and boto3 multi-part upload APIs to handle massively concurrent ingestions.
 - Commit 4 (Dockerization): Write the Dockerfile and configure gunicorn with Uvicorn workers to maximize the API's concurrent connection limits.
+- Commit 5 (Deployment & Polish): Create a client-side stress-testing script to prove optimal multi-part upload speeds. Finalize project documentation.
