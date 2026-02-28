@@ -1,0 +1,1 @@
+- Commit 2 (FastAPI Endpoints): Build the API routes to accept file uploads. Implement basic synchronous S3 upload functionality to verify connectivity.
