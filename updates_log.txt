@@ -1,0 +1,1 @@
+- Upgrade CloudSync-Engine by implementing a packet forwarding telemetry tracker. Log OSPF-style path calculation metrics when routing multi-part chunked files into AWS S3, adding actionable insights into packet-level latency
